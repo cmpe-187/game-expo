@@ -8,8 +8,6 @@
 \usepgfplotslibrary{fillbetween}
 \usetikzlibrary{patterns}
 \pgfplotsset{compat=1.16}
-\usetikzlibrary{external}
-\tikzexternalize[prefix=./dir]
 
 \begin{document}
 \begin{tikzpicture}
@@ -30,7 +28,7 @@
 		node [right] {male};
 	\addplot
 		[mark=none] coordinates {(0, 0) (0, 1)}
-		node [right] {$P_1$};
+		node [right] {$P_1$, $P_2$};
 	\addplot
 		[mark=none, color=black, dashed, thick]
 		coordinates {(0, 0) (25, 0)};
