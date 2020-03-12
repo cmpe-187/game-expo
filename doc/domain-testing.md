@@ -17,3 +17,8 @@
 | P<sub>8</sub>  | `7 < age < 10`     |
 | P<sub>9</sub>  | `11 < age < 15`    |
 | P<sub>10</sub> | `20 < age`         |
+
+
+## Domain Graph
+
+![domain graph](./domain-graph/domain-graph.png)

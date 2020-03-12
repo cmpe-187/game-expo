@@ -130,3 +130,11 @@ dmypy.json
 
 # miscellaneous
 .idea/
+doc/domain-graph/domain-graph.dvi
+doc/domain-graph/domain-graph.auxlock
+doc/domain-graph/domain-graph.aux
+doc/domain-graph/domain-graph-figure0.md5
+doc/domain-graph/dirdomain-graph-figure0.md5
+doc/domain-graph/.DS_Store
+doc/.DS_Store
+doc/domain-graph/domain-graph.synctex.gz
