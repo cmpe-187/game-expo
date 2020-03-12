@@ -1,1 +1,1 @@
-# game-expo
+# games-expo-ticketing-module
